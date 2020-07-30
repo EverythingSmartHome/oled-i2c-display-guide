@@ -1,6 +1,6 @@
 # OLED i2c Display Guide
 ## Guide
-The full guide for this can be found [here](https://everythingsmarthome.co.uk)
+The full guide for this can be found [here](https://everythingsmarthome.co.uk/esp8266/adding-an-ssd1306-oled-display-to-any-project/)
 
 ## Support
 If you would like to support this project and many more like it, please consider supporting me so I can keep delivering more projects just like this one:
